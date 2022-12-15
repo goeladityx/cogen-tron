@@ -76,5 +76,6 @@ cd IVR-web-eng
 Python, RASA, SQL, gTTS, Twilio, Google Calender API, Google Translator, playsound, prettytable, PyAudio, requests, SpeechRecognition, android, HTML, geopy, opencage, pyauthorize, spacy, smtp, FastAPI
 
 ## made with 💕 by:
+- [Aditya Goel](https://github.com/goeladityx)
 - [Ankit Hans](https://github.com/ankithans)
 - [Aryamaan Pandey](https://github.com/aryamaan23)
